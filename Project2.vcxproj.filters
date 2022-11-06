@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="通讯录.cpp">
+    <ClCompile Include="address_book.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

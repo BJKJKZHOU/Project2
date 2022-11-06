@@ -18,7 +18,7 @@ void printChoose() {
 	printf("5. Delete Contacts\n");
 	printf("6. Exit System\n");
 	
-	while (true) {
+	while (1) {
 		scanf_s("%d", &choose);
 
 		// 1.2 根据不同的选择进入不同的入口

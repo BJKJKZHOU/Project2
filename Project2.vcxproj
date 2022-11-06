@@ -139,7 +139,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="通讯录.cpp" />
+    <ClCompile Include="address_book.c" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="address_book.h" />
