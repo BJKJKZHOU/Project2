@@ -10,13 +10,14 @@ void printChoose() {
 	};
 
 	int choose = 0;
-	printf("Choose:(Please press numbers in your keyboard)\n");
-	printf("1. Add Contacts\n");
-	printf("2. Search Number\n");
-	printf("3. contacts List\n");
-	printf("4. contacts Data\n");
-	printf("5. Delete Contacts\n");
-	printf("6. Exit System\n");
+	printf("选择：（请按键盘中的数字）\n");
+	printf("1.\t添加联系人\n");
+	printf("2.\t搜索号码\n");
+	printf("3.\t联系人列表\n");
+	printf("4.\t联系人数据\n");
+	printf("5.\t删除联系人\n");
+	printf("6.\t退出系统\n");
+
 	
 	while (1) {
 		scanf_s("%d", &choose);
