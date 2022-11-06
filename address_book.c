@@ -86,7 +86,7 @@ void toDeleteContacts() {
 
 // 7. 退出系统
 void toExitSystem() {
-	printf("This is 6 choice!\n");
+	printf("退出通讯录!\n");
 	exit(0);
 }
 
